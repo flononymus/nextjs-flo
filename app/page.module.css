@@ -42,6 +42,11 @@
   left:0px;
 }
 
+.subNavbar {
+  /* position:relative; */
+  position:absolute;
+}
+
 .footerContainer{
   display: flex; 
   position: sticky;
